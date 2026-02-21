@@ -62,11 +62,3 @@ Each file represents a network graph where nodes correspond to users and edges r
 
 ---
 
-## Installation
-
-Clone the repository and install the required dependencies:
-
-```bash id="47q5ec"
-git clone https://github.com/your-username/social-network-analysis.git
-cd social-network-analysis
-pip install numpy pandas matplotlib networkx node2vec gensim scikit-learn
